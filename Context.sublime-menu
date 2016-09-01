@@ -1,0 +1,7 @@
+[
+	{
+   	 	"id" : "removeEmptyLines",
+    	"caption" : "Remove empty lines",
+    	"command" : "remove_empty_lines"
+	}
+]

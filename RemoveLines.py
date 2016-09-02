@@ -1,4 +1,3 @@
- #hello
 import sublime
 import sublime_plugin
 #view.run_command("remove_empty_lines")
